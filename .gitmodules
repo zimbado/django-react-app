@@ -1,0 +1,6 @@
+[submodule "django-react-app-backend"]
+	path = django-react-app-backend
+	url = git@github.com:zimbado/django-react-app-backend.git
+[submodule "django-react-app-frontend"]
+	path = django-react-app-frontend
+	url = git@github.com:zimbado/django-react-app-frontend.git
